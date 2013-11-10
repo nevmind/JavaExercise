@@ -1,9 +1,10 @@
-package kcse;
+﻿package kcse;
 
 public class Waiter {
 	private final GraciousPhilosopher[] phil;
 	private final Chopstick[] chopsticks;	
 	
+	private int githubtest = 0;
 	boolean init = false;
 
 	Waiter(GraciousPhilosopher[] phil, Chopstick[] chopsticks) {
