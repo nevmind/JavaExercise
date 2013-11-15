@@ -1,4 +1,4 @@
-git init //기존 디렉토리를 git 저장소로 만들때 씀
+git init //기존 디렉토리를 git 저장소로 만들때 씀........  .... ....
 git add .
 git commit -m "commit message"
 git push origin master
