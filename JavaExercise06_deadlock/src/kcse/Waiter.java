@@ -1,7 +1,7 @@
 package kcse;
 
 public class Waiter {
-	private final GraciousPhilosopher[] phil;
+	private final GraciousPhilosopher[] phil=0;
 	private final Chopstick[] chopsticks;	
 	
 	boolean init = false;
